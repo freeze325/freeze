@@ -252,6 +252,46 @@
 			Filter="rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav"
 			UniqueIdentifier="{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}"
 			>
+			<Filter
+				Name="Serialization"
+				>
+				<File
+					RelativePath=".\StoneMain\Serialization\Builder.h"
+					>
+				</File>
+				<File
+					RelativePath=".\StoneMain\Serialization\PackPacket.cpp"
+					>
+				</File>
+				<File
+					RelativePath=".\StoneMain\Serialization\PackPacket.h"
+					>
+				</File>
+				<File
+					RelativePath=".\StoneMain\Serialization\RawPacket.cpp"
+					>
+				</File>
+				<File
+					RelativePath=".\StoneMain\Serialization\RawPacket.h"
+					>
+				</File>
+				<File
+					RelativePath=".\StoneMain\Serialization\UnpackPacket.cpp"
+					>
+				</File>
+				<File
+					RelativePath=".\StoneMain\Serialization\UnpackPacket.h"
+					>
+				</File>
+			</Filter>
+			<Filter
+				Name="Utilities"
+				>
+				<File
+					RelativePath=".\StoneMain\Utilities\Noncopyable.h"
+					>
+				</File>
+			</Filter>
 		</Filter>
 		<File
 			RelativePath=".\Stone.cpp"
